@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Randive</h1>
 <h3 align="center">A passionate Andriod and frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_25726540.htm#query=cartoon%20programmer&position=2&from_view=keyword&track=ais&uuid=30ee0bae-0d9a-4300-a658-95eec1025dd3">
 
 - 🌱 I’m currently learning **React.js**
 
